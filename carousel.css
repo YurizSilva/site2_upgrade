@@ -80,3 +80,36 @@ body {
     margin-top: 7rem;
   }
 }
+
+.fa-brands{
+	float: right;
+	margin: 3px;
+}
+
+.fa-facebook{
+	color: #3b5998;
+}
+
+.fa-instagram{
+	color:#c92bb7;
+}
+
+.fa-linkedin{
+	color: #0e76a8;
+}
+
+.fa-youtube{
+	color: #FF0000;
+}
+
+.whatsapp{
+    position: fixed;
+    bottom: 30px;
+    right: 10px;
+    z-index: 1;
+    padding-top: 5px;
+}
+
+.fa-whatsapp{
+	color: #25D366;
+}
